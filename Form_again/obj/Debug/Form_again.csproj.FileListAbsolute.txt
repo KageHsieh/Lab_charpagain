@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Lab_charpagain\Form_again\bin\Debug\Form_again.exe.config
+C:\Users\User\Desktop\Lab_charpagain\Form_again\bin\Debug\Form_again.exe
+C:\Users\User\Desktop\Lab_charpagain\Form_again\bin\Debug\Form_again.pdb
+C:\Users\User\Desktop\Lab_charpagain\Form_again\obj\Debug\Form_again.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lab_charpagain\Form_again\obj\Debug\Form_again.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Lab_charpagain\Form_again\obj\Debug\Form_again.helloForm.resources
+C:\Users\User\Desktop\Lab_charpagain\Form_again\obj\Debug\Form_again.Properties.Resources.resources
+C:\Users\User\Desktop\Lab_charpagain\Form_again\obj\Debug\Form_again.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Lab_charpagain\Form_again\obj\Debug\Form_again.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab_charpagain\Form_again\obj\Debug\Form_again.exe
+C:\Users\User\Desktop\Lab_charpagain\Form_again\obj\Debug\Form_again.pdb
+C:\Users\User\Desktop\Lab_charpagain\Form_again\obj\Debug\Form_again.Form2.resources
+C:\Users\User\Desktop\Lab_charpagain\Form_again\obj\Debug\Form_again.Form_08.resources
+C:\Users\User\Desktop\Lab_charpagain\Form_again\obj\Debug\Form_again.Form_12.resources

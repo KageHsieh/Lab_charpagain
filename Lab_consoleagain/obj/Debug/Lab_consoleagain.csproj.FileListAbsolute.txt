@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Lab_charpagain\Lab_consoleagain\bin\Debug\Lab_consoleagain.exe.config
+C:\Users\User\Desktop\Lab_charpagain\Lab_consoleagain\bin\Debug\Lab_consoleagain.exe
+C:\Users\User\Desktop\Lab_charpagain\Lab_consoleagain\bin\Debug\Lab_consoleagain.pdb
+C:\Users\User\Desktop\Lab_charpagain\Lab_consoleagain\obj\Debug\Lab_consoleagain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lab_charpagain\Lab_consoleagain\obj\Debug\Lab_consoleagain.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Lab_charpagain\Lab_consoleagain\obj\Debug\Lab_consoleagain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab_charpagain\Lab_consoleagain\obj\Debug\Lab_consoleagain.exe
+C:\Users\User\Desktop\Lab_charpagain\Lab_consoleagain\obj\Debug\Lab_consoleagain.pdb
