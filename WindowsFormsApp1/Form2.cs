@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WindowsFormsApp1.inherit;
 
 namespace WindowsFormsApp1
 {
@@ -49,6 +50,11 @@ namespace WindowsFormsApp1
         private void button4_Click(object sender, EventArgs e)
         {
             constructor.aa X=new constructor.aa();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            new FrmInherit().Show();
         }
     }
 }
